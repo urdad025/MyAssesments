@@ -1,2 +1,13 @@
 # MyAssesments
-It includes my assessments and researches
+This is for learning and traninig purpose.
+//******
+       *
+       *
+       *
+       *
+       *Liverpool site automation using Selenium-Java and TestNG framework.
+       *
+       *
+       *
+       *
+       ****************************************************//
