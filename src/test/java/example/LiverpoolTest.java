@@ -18,6 +18,8 @@ public class LiverpoolTest {
 public static WebDriver driver;
 public static List<WebElement> serchedArticles;
 
+//Launching the Web Page
+
 @Test (priority=0,groups = {"TC1","TC2"})  
   public void launchLiverpool() throws InterruptedException
   {
