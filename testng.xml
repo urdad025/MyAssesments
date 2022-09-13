@@ -15,7 +15,6 @@
     </classes>
   </test>
     <test name="TestCase2">
-    
               <groups>  
        	  <run>  
             <include name="TC2"/>  
